@@ -1,7 +1,6 @@
 print("hello myself abhishek")
-hello everyone 
-how are you ?
-hope you are fine 
-.
+i am learning git and github
+this is my first trial
+thankyou
 
 
