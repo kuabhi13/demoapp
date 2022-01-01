@@ -1,4 +1,3 @@
-#importing turtle module 
 import turtle
 turtle.setup(width=600, height=500)
 turtle.reset()
@@ -32,6 +31,3 @@ while x<1000:
 
 
 turtle.exitonclick()
-#end
-    
-               
